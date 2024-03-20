@@ -1,0 +1,92 @@
+@font-face {
+    font-family: MiFuente;
+    src: url(../fonts/Exo2-VariableFont_wght.ttf);
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Bebas Neue", sans-serif;
+}
+header{
+    background-color: #E6E6E6;
+    background-image: url(../img/coleccion-nubes-dibujos-animados_23-2149015245.avif);
+    position: sticky;
+    top: 0;
+}
+.imgbat{
+    text-align: center;
+}
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+}
+.negrilla{
+    font-weight: bold;
+}
+h2{
+    background-color: #C4C4C4;;
+    color: #005677;
+    font-family: "MiFuente";
+}
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+.menu{
+    color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: solid black 1px;
+    width: 32px;
+}
+.logowasa{
+    position: fixed;
+    top: 90%;
+    left: 92%;
+    width: 100px;
+    border-radius: 20%;
+}
+.bloque1{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 2px;
+    border: solid black 2px;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 25%;
+}
+.bloque2{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    border: solid black 2px;
+    padding: 2px;
+    display: inline-block;
+    margin-right: 50px;
+}
+.bloque3{
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    border: solid black 2px;
+    padding: 2px;
+    display: inline-block;
+    margin-right: 50px;
+}
