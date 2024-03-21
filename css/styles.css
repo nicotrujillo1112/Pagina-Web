@@ -23,6 +23,7 @@ h1 {
     background-color: #C4C4C4;
     color: #005677;
     text-align: center;
+    border-bottom: solid black 2px;
 }
 .negrilla{
     font-weight: bold;
@@ -46,8 +47,6 @@ a{
     color: black;
     margin-top: 100px;
     margin-bottom: 100px;
-    border: solid black 1px;
-    width: 32px;
 }
 .logowasa{
     position: fixed;
@@ -101,6 +100,7 @@ a{
     margin-left: 25%;
     margin-bottom: 10px;
     display: inline-block;
+    margin-right: 50px;
 }
 .bloque5{
     background-color: orange;
@@ -112,5 +112,7 @@ a{
     padding: 2px;
     margin-bottom: 10px;
     display: inline-block;
-    margin-left: 50px;
+}
+.lista{
+    margin: 17px
 }
