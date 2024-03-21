@@ -90,3 +90,27 @@ a{
     display: inline-block;
     margin-right: 50px;
 }
+.bloque4{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    border: solid black 2px;
+    padding: 2px;
+    margin-left: 25%;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.bloque5{
+    background-color: orange;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    border: solid black 2px;
+    padding: 2px;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
